@@ -1,2 +1,3 @@
-# cartas-de-super-trunfo.c
-Trabalho acadêmico, escalonavel.
+trabalho academico.
+cartas de super trunfo cadastradas atraves do usuario
+
